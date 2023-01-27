@@ -20,9 +20,7 @@
 
 # 📖 [ Math-Magicians ] <a name="about-project"></a>
 
-
 Math magicians is a website for all fans of mathematics. It is a Single Page App (SPA) that allows users to make simple calculations using a calculator and read a random math-related quote.
-
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -42,7 +40,6 @@ Math magicians is a website for all fans of mathematics. It is a Single Page App
 
 ### Key Features <a name="key-features"></a>
 
-
 - **[ Simple calculator ]**
 - **[ Math quotes ]**
 
@@ -51,7 +48,6 @@ Math magicians is a website for all fans of mathematics. It is a Single Page App
 <!-- LIVE DEMO -->
 
 ## 🚀 Live Demo <a name="live-demo"></a>
-
 
 - [Live Demo Link](https://rugwizangoga.github.io/Leaderboard-app/dist/)
 
@@ -72,6 +68,7 @@ $ npm start
 ### Prerequisites
 
 In order to run this project you need:
+
 - Git
 - Shell
 - Browser
@@ -94,10 +91,10 @@ Example commands:
 ```
 --->
 
-
 ### Deployment
 
 You can deploy this project using:
+
 - Github Pages
 
 <!--
@@ -114,15 +111,19 @@ Example:
 
 ## 👥 Authors <a name="authors"></a>
 
-
 👤 **Author1**
-
 
 IRADUKUNDA Pacific Rugwizangoga
 
 - GitHub: [@githubhandle](https://github.com/rugwizangoga)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/iradukunda-pacific-rugwizangoga)
 
+👤 **Author2**
+
+Kelvin Kaviku
+
+- GitHub: [@brainskev](https://github.com/brainskev)
+- LinkedIn: [kelvin](https://www.linkedin.com/in/kelvin-kaviku-5178001a6/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -140,7 +141,6 @@ Feel free to check the [issues page](../../issues/)
 
 ## ⭐️ Show your support <a name="support"></a>
 
-
 Give a ⭐️ if you like this project
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -149,8 +149,8 @@ Give a ⭐️ if you like this project
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-
 I would like to thank...
+
 - Microverse for the design Template.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
