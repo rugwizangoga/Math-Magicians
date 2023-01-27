@@ -130,10 +130,8 @@ Kelvin Kaviku
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-> Describe 1 - 3 features you will add to the project.
-
-- [ ] **[Mobile Version]**
-- [ ] **[History Button]**
+- **[Mobile Version]**
+- **[History Button]**
 
 <!-- CONTRIBUTING -->
 
