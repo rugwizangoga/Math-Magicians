@@ -11,6 +11,7 @@
   - [Prerequisites](#prerequisites)
   - [Deployment](#triangular_flag_on_post-deployment)
 - [👥 Authors](#authors)
+- [🔭 Future Features](#future-features)
 - [🤝 Contributing](#contributing)
 - [⭐️ Show your support](#support)
 - [🙏 Acknowledgements](#acknowledgements)
@@ -126,6 +127,13 @@ Kelvin Kaviku
 - LinkedIn: [kelvin](https://www.linkedin.com/in/kelvin-kaviku-5178001a6/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## 🔭 Future Features <a name="future-features"></a>
+
+> Describe 1 - 3 features you will add to the project.
+
+- [ ] **[Mobile Version]**
+- [ ] **[History Button]**
 
 <!-- CONTRIBUTING -->
 
